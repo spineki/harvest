@@ -10,10 +10,8 @@ def splitter(filename, MAX_SIZE=7):
     MAX_SIZE = MAX_SIZE * 1024 * 1024
 
     start_index = 0
-
-    MAX_SIZE = 50 * 1024 * 1024
-
-    data = 'test'
+    
+    data = None
 
     nb_fichier = 0
 
